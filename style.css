@@ -57,6 +57,10 @@
   border-radius: 50%
 }
 
+.fa {
+  font-size: 25px;
+}
+
 ul {
   display: block;
   list-style-type: disc;
@@ -125,9 +129,7 @@ p {
   margin-top: 5px;
 }
 
-.fa {
-  font-size: 50px;
-}
+
 
 
 
